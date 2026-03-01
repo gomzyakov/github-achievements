@@ -3,7 +3,7 @@
 Read this in other languages:
 
 [English](README.md)
-&middot; [Chinese](lang/chinese.md)
+&middot; [简体中文](lang/chinese.md)
 &middot; [Русский](lang/russian.md)
 &middot; [Nederlands](lang/dutch.md)
 &middot; [Français](lang/french.md)
@@ -21,7 +21,7 @@ Read this in other languages:
 &middot; [Español](lang/spanish.md)
 &middot; [Kiswahili](lang/swahili.md)
 &middot; [తెలుగు](lang/telugu.md)
-&middot; [Traditional chinese](lang/traditional-chinese.md)
+&middot; [正體中文](lang/traditional-chinese.md)
 &middot; [Türkçe](lang/turkish.md)
 &middot; [isiZulu](lang/zulu.md)
 &middot; [Tiếng Việt](lang/vietnamese.md)
