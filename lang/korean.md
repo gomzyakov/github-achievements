@@ -6,7 +6,7 @@ _Read this in [other languages](../README.md)._
 
 | 배지 | 이름 | 획득 방법                                                                                                                                                      |
 | :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | ❤️ 이모지를 사용하여 GitHub에서 콘텐츠에 반응하기 **(테스트 중)** |
+| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | ❤️ 이모지를 사용하여 GitHub에서 콘텐츠에 반응함 **(테스트 중)** |
 | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | 사용자가 여러 공개 저장소에 PR을 병합함 **(테스트 중)** |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | 16개의 별 또는 더 많은 별을 가진 저장소를 생성함.                                                                                              |
 | ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | 열린 지 5분 이내에 이슈나 풀 리퀘스트를 닫음.                                                                                                       |
@@ -14,7 +14,7 @@ _Read this in [other languages](../README.md)._
 | ![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** 또는 [더 많은](#업적 배지 레벨) 병합된 풀 요청**의 공동 창작.                                                                                                           |
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | **하나** 또는 [더 많은](#업적 배지 레벨) 병합된 풀 요청**의 공동 창작.                                                                                                                      |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | 코드 검토 없이 **최소 하나의** PR을 병합합니다.                                                                                                       |
-| ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | 통과 [GitHub Sponsors](https://github.com/sponsors) 오픈 소스 프로젝트에 기부하기.                                                                                  |
+| ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | 통과 [GitHub Sponsors](https://github.com/sponsors) 오픈 소스 프로젝트에 기부함.                                                                                  |
 | ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | [Mars 2020 헬리콥터 미션](https://github.com/readme/featured/nasa-ingenuity-helicopter)용 저장소에 코드를 기여했습니다. *더 이상 얻을 수 없습니다.* |
 | ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | [2020 GitHub Archive Program](https://archiveprogram.github.com/)에 기여한 코드입니다. **더 이상 얻을 수 없습니다.*                                 |
 
@@ -24,7 +24,7 @@ _Read this in [other languages](../README.md)._
 
 일부 배지는 기본 버전 외에도 계속 업그레이드할 수 있습니다.
 
-| 성취 수준 | 기본값 | 황동 | 백은 | 금 |
+| 성취 수준 | 기본값 | 황동 | 은 | 금 |
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Bronze badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Silver badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Gold badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
 | | 16 별 | 128 별 | 512 별 | 4096 별 <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
