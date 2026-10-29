@@ -59,11 +59,11 @@ Noen prestasjoner har ikke bare grunnversjonen, men også nivåer.
 
 <br>
 
-## Hudtone for prestasjoner
+## Hudfarge for prestasjoner
 
-Utseendet til noen prestasjoner avhenger av din foretrukne emoji-hudtone.
+Utseendet til noen prestasjoner avhenger av din foretrukne emoji-hudfarge.
 
-Du kan endre foretrukket hudtone under [utseendeinnstillinger](https://github.com/settings/appearance).
+Du kan endre foretrukket hudfarge under [utseendeinnstillinger](https://github.com/settings/appearance).
 
 <br>
 
