@@ -6,6 +6,7 @@ Read this in other languages:
 &middot; [简体中文](lang/chinese.md)
 &middot; [Русский](lang/russian.md)
 &middot; [Nederlands](lang/dutch.md)
+&middot; [Norsk](lang/norwegian.md)
 &middot; [Français](lang/french.md)
 &middot; [Deutsch](lang/german.md)
 &middot; [हिन्दी](lang/hindi.md)
@@ -13,7 +14,7 @@ Read this in other languages:
 &middot; [Italiano](lang/italian.md)
 &middot; [한국어](lang/korean.md)
 &middot; [தமிழ்](lang/tamil.md)
-&middot; [ಕನ್ನಡ](lang/kannada.md)v
+&middot; [ಕನ್ನಡ](lang/kannada.md)
 &middot; [odia](lang/odia.md)
 &middot; [pidgin](lang/pidgin.md)
 &middot; [Polski](lang/polish.md)
